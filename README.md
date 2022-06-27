@@ -3,3 +3,6 @@
 Because the later procedure of making a music recommender app,i only focus on music classification because it require more on CNN Deep learning beside of feature learning (feature extraction)
 DATA link:
 https://drive.google.com/drive/folders/14grXqXdBDyFR61WzPPjcOR2mv5LANqMh?usp=sharing
+
+Web app:
+By runing thw web_app.py with: "!streamlit run web_app.py" we can predict music classification
